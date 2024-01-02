@@ -4,8 +4,7 @@
 - Michal Dokupil
 - Elliott Vanwormhoudt
 
-**Bibliography:**
-- sample.bib
+
 
 ## Abstract
 
